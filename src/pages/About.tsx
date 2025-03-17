@@ -30,8 +30,14 @@ const About = () => {
 
   const teamMembers = [
     {
+      name: "Abhishek Mathur ",
+      role: "CEO/CTO",
+      bio: "Former Director of Product at Amazon. Passionate about creating intuitive, impactful AI products that solve real business problems. MBA from Stanford.",
+      image: "https://media.licdn.com/dms/image/v2/D5603AQH17hKVQLG0WA/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1700089015269?e=1747872000&v=beta&t=pGd8z70C9tS6ZaynBi9iS7yFUWWzCY2ZpBudjMc5tVU",
+    },
+    {
       name: "Prateek Mathur",
-      role: "CIO",
+      role: "COO",
       bio: "Former AI Research Lead at MIT with 15+ years of experience in machine learning and AI systems. Led the development of groundbreaking natural language processing technologies.",
       image: "https://mediumvioletred-cobra-190797.hostingersite.com/wp-content/uploads/2025/03/Screenshot-2025-03-01-163958-600x609.png",
     },
@@ -47,7 +53,6 @@ const About = () => {
       bio: "Former Director of Product at Amazon. Passionate about creating intuitive, impactful AI products that solve real business problems. MBA from Stanford.",
       image: "https://mediumvioletred-cobra-190797.hostingersite.com/wp-content/uploads/2025/03/Screenshot-2025-03-01-164048-600x674.png",
     },
-    
   ];
 
   // const timeline = [
